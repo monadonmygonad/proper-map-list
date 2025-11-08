@@ -20,6 +20,7 @@
 4. jm_arch
 5. jm_cruise
 6. jm_jumpers_heaven_hard
+7. jm_quick3_pro
 
 # Would be proper but too easy
 
